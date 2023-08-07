@@ -17,7 +17,7 @@
 #  GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yahiarrh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiarrh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://wakatime.com/share/@363e80b1-7ee5-4e20-bf23-aac0acf8b10e/4d562b78-1553-4ec7-94b5-9f48eb559d23.svg)
+[![](https://wakatime.com/share/@584e64c0-67fa-483f-b72a-310c0e8106ba/5103db0b-cd36-447d-b3c5-1b10738b15ad.svg)
 
 
 ### ✍️ Random Dev Quote
