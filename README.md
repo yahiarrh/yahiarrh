@@ -3,12 +3,9 @@
 <br><br>
 ⛳ Currently Working on : 42_Cursus
 <br><br>
-🔥 Currently Studying : C++  / Shell / Flutter .
+🔥 Currently Studying : C .
 <br><br>
-😜 Fun Fact : the first computer bug was an actual insect! In 1947, a moth
-               was found inside the Harvard Mark II computer, causing a malfunction.
-               The term "debugging" was coined to refer to the process of removing errors
-               or bugs from computer software.
+😜 Fun Fact :The average smartphone today has more computing power than NASA had when they sent astronauts to the moon.
 
 <br><br>
 [![yrrhaibi's 42 stats](https://badge.mediaplus.ma/black/yrrhaibi)](https://github.com/yrrhaibi/badge42)
