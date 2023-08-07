@@ -18,7 +18,7 @@
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 #  GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=yrrhaibi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yahiarrhi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yrrhaibi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://wakatime.com/share/@363e80b1-7ee5-4e20-bf23-aac0acf8b10e/4d562b78-1553-4ec7-94b5-9f48eb559d23.svg)
 
