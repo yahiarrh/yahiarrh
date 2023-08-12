@@ -16,7 +16,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 #  GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yahiarrh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiarrh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiarrh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://wakatime.com/share/@584e64c0-67fa-483f-b72a-310c0e8106ba/5103db0b-cd36-447d-b3c5-1b10738b15ad.svg)
 
 
