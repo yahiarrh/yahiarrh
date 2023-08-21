@@ -8,9 +8,8 @@
 😜 Fun Fact :The average smartphone today has more computing power than NASA had when they sent astronauts to the moon.
 
 <br><br>
-[![yrrhaibi's 42 stats](https://badge.mediaplus.ma/black/yrrhaibi)](https://github.com/yrrhaibi/badge42)
 
-
+[![yrrhaibi's 42 stats](https://badge42.vercel.app/api/v2/clbw85sgc00060fl9wsx5u1xr/stats?cursusId=21&coalitionId=73)](https://github.com/JaeSeoKim/badge42)
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
