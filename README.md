@@ -3,7 +3,7 @@
 <br><br>
 ⛳ Currently Working on : 42_Cursus
 <br><br>
-🔥 Currently Studying : C .
+🔥 Currently Studying : C/C++
 <br><br>
 😜 Fun Fact :The average smartphone today has more computing power than NASA had when they sent astronauts to the moon.
 
