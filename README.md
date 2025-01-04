@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yahiarrh&theme=dark&hide_border=false)
 
@@ -24,6 +25,3 @@
 
 ## ⏱️ Weekly Development Breakdown
 ![WakaTime Stats](https://wakatime.com/share/@584e64c0-67fa-483f-b72a-310c0e8106ba/5103db0b-cd36-447d-b3c5-1b10738b15ad.svg)
-
----
-[![Profile Views](https://visitcount.itsvg.in/api?id=yahiarrh&icon=0&color=0)](https://visitcount.itsvg.in)
