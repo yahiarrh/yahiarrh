@@ -1,27 +1,90 @@
-# 👋 Hi there, I'm Yahia
+<h2 align="center">🌟 Welcome to My Digital Garden 🌱</h2>
 
-## 💫 About Me
-- 🎓 Student at 1337 School (42 Network)
-- ⛳ Currently focused on completing the 42_Cursus
-- 🔥 Learning and working with C/C++, Python, React.js, and JavaScript
-- 🚀 Passionate about software development and problem-solving
-- 💡 Fun Fact: The average smartphone today has more computing power than NASA had when they sent astronauts to the moon!
+```ascii
+          _____                    _____                    _____                    _____          
+         /\    \                  /\    \                  /\    \                  /\    \         
+        /::\    \                /::\    \                /::\    \                /::\    \        
+        \:::\    \              /::::\    \              /::::\    \              /::::\    \       
+         \:::\    \            /::::::\    \            /::::::\    \            /::::::\    \      
+          \:::\    \          /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \     
+           \:::\    \        /:::/__\:::\    \        /:::/__\:::\    \        /:::/__\:::\    \    
+           /::::\    \      /::::\   \:::\    \       \:::\   \:::\    \      /::::\   \:::\    \   
+  _____   /::::::\    \    /::::::\   \:::\    \    ___\:::\   \:::\    \    /::::::\   \:::\    \  
+ |    |  /:::/\:::\    \  /:::/\:::\   \:::\    \  /\   \:::\   \:::\    \  /:::/\:::\   \:::\    \ 
+ |____|/:::/  \:::\____\/:::/  \:::\   \:::\____\/::\   \:::\   \:::\____\/:::/__\:::\   \:::\____\
+       \::/    \::/    /\::/    \:::\  /:::/    /\:::\   \:::\   \::/    /\:::\   \:::\   \::/    /
+        \/____/ \/____/  \/____/ \:::\/:::/    /  \:::\   \:::\   \/____/  \:::\   \:::\   \/____/ 
+                                  \::::::/    /    \:::\   \:::\    \       \:::\   \:::\    \     
+                                   \::::/    /      \:::\   \:::\____\       \:::\   \:::\____\    
+                                   /:::/    /        \:::\  /:::/    /        \:::\   \::/    /    
+                                  /:::/    /          \:::\/:::/    /          \:::\   \/____/     
+                                 /:::/    /            \::::::/    /            \:::\    \         
+                                /:::/    /              \::::/    /              \:::\____\        
+                                \::/    /                \::/    /                \::/    /        
+                                 \/____/                  \/____/                  \/____/         
+```
 
-## 📊 42 Progress
-[![yrrhaibi's 42 stats](https://badge.mediaplus.ma/black/yrrhaibi)](https://github.com/yrrhaibi/badge42)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=1337+Student;Full+Stack+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
+</div>
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 🚀 Current Mission
 
+> Exploring the depths of computer science at 1337 School (42 Network), where each day brings new challenges and discoveries.
 
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yahiarrh&theme=dark&hide_border=false)
+### 🎯 Focus Areas
+```python
+current_tasks = {
+    "main": "42_Cursus progression",
+    "languages": ["C", "C++", "Python", "JavaScript"],
+    "frameworks": ["React"],
+    "interests": ["Algorithm Design", "System Architecture", "Web Development"]
+}
+```
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiarrh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🛠️ Technical Arsenal
 
-## ⏱️ Weekly Development Breakdown
-![WakaTime Stats](https://wakatime.com/share/@584e64c0-67fa-483f-b72a-310c0e8106ba/5103db0b-cd36-447d-b3c5-1b10738b15ad.svg)
+<div align="center">
+
+| Languages | Frameworks & Tools | Environment |
+|-----------|-------------------|-------------|
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
+
+</div>
+
+## 📊 Progress Tracker
+
+<div align="center">
+  
+[![42 Profile Card](https://badge.mediaplus.ma/black/yrrhaibi)](https://github.com/yrrhaibi/badge42)
+
+</div>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yahiarrh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiarrh&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 💭 Philosophy
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yahiarrh&color=blueviolet&style=flat-square">
+</div>
+
+---
+
+<div align="center">
+  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+</div>
